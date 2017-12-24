@@ -5,6 +5,6 @@ title: Merry Christmas!
 
 I bought you your domain name. Nice huh!
 
-![Photo]({{ "/images/TessaTiber-min.jpg" | absolute_url }})
+![photo](/images/TessaTiber-min.jpg){:class="img-responsive"}
 
 You might have to learn a little bit about computers to be able to edit it though!
