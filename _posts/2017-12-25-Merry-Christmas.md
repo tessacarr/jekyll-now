@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Merry Christmas!
+published: true
 ---
 
-I bought you your domain name and setup a nice (sort of) easy (ish) to use blog. Nice huh!
+pre image
 
 
 ![Image description](/images/firs-post.png)
 
 
-You might have to learn a little bit about computers to be able to edit it though!
+post image
