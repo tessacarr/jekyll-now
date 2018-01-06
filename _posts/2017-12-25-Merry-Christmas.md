@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merry Christmas!
+title: image layout
 published: true
 ---
 
