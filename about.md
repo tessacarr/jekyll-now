@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Tessa. This page needs updating.
+This page needs updating.
 
 ### More Information
 
